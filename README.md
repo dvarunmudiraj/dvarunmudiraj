@@ -71,25 +71,59 @@ Passionate about building scalable backend systems, modern APIs, and cloud-ready
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/dvarunmudiraj/Cohort-Orchestration-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dvarunmudiraj&repo=Cohort-Orchestration-Platform&theme=github_dark&hide_border=true" />
-</a>
+### 🎓 Cohort Orchestration Platform
 
-<a href="https://github.com/dvarunmudiraj/HealthInsuranceManagement">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dvarunmudiraj&repo=HealthInsuranceManagement&theme=github_dark&hide_border=true" />
-</a>
+Java • Spring Boot • PostgreSQL
 
-<a href="https://github.com/dvarunmudiraj/Scalable-URL-Shortener-with-Analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dvarunmudiraj&repo=Scalable-URL-Shortener-with-Analytics&theme=github_dark&hide_border=true" />
-</a>
+Enterprise platform for managing cohorts, mentors, scheduling and analytics.
 
-<a href="https://github.com/dvarunmudiraj/Faculty-Presence-Detection-and-Alert-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dvarunmudiraj&repo=Faculty-Presence-Detection-and-Alert-System&theme=github_dark&hide_border=true" />
-</a>
+<a href="https://github.com/dvarunmudiraj/Cohort-Orchestration-Platform">🔗 View Repository</a>
 
-</p>
+</td>
+
+<td width="50%">
+
+### 🏥 Health Insurance Management
+
+Java • Spring Boot • MySQL
+
+Insurance portal with policy management, claims, payments and admin dashboard.
+
+<a href="https://github.com/dvarunmudiraj/HealthInsuranceManagement">🔗 View Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔗 Scalable URL Shortener
+
+Spring Boot • Redis • PostgreSQL
+
+Low-latency URL shortener with analytics and caching.
+
+<a href="https://github.com/dvarunmudiraj/Scalable-URL-Shortener-with-Analytics">🔗 View Repository</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 Faculty Presence Detection
+
+Python • OpenCV • YOLO
+
+AI-powered presence detection and automated alerts.
+
+<a href="https://github.com/dvarunmudiraj/Faculty-Presence-Detection-and-Alert-System">🔗 View Repository</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -110,12 +144,6 @@ Passionate about building scalable backend systems, modern APIs, and cloud-ready
 ---
 
 
-<p align="center">
-Thanks for visiting! Feel free to explore my repositories and connect with me.
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -123,3 +151,8 @@ Thanks for visiting! Feel free to explore my repositories and connect with me.
 </p>
 
 
+<p align="center">
+Thanks for visiting! Feel free to explore my repositories and connect with me.
+</p>
+
+---
