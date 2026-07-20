@@ -1,37 +1,48 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
+</p>
 
-# Hi, I'm D Varun 👋
+<h1 align="center">Hi 👋, I'm D Varun</h1>
 
-### Software Engineer @ Cognizant
+<h3 align="center">
+Software Engineer @ Cognizant
+</h3>
 
-Building scalable backend applications with Java, Spring Boot, Distributed Systems & AI.
-
-</div>
-
----
-
-## About Me
-
-🚀 Passionate about backend engineering and distributed systems.
-
-💼 Currently working as a Software Engineer at Cognizant.
-
-🌱 Continuously learning system design, cloud technologies, and modern software architecture.
+<p align="center">
+Building scalable backend applications with Java, Spring Boot, Distributed Systems and AI.
+</p>
 
 ---
 
-## Tech Stack
+## 👨‍💻 About Me
 
-Coming soon...
-
----
-
-## GitHub Statistics
-
-Coming soon...
+- 💼 Software Engineer @ Cognizant
+- 🚀 Passionate about backend engineering
+- 🌱 Currently exploring Distributed Systems & Cloud
+- 🎯 Focused on writing clean, scalable software
 
 ---
 
-## Featured Projects
+## 🛠 Tech Stack
 
-Coming soon...
+(We'll add beautiful icons next.)
+
+---
+
+## 📊 GitHub Analytics
+
+(We'll add stats in the next step.)
+
+---
+
+## 🚀 Featured Projects
+
+(We'll make project cards later.)
+
+---
+
+## 📫 Connect
+
+LinkedIn
+
+Email
