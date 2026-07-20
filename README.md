@@ -44,10 +44,11 @@ Passionate about building scalable backend systems, modern APIs, and cloud-ready
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dvarunmudiraj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarunmudiraj&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=dvarunmudiraj&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarunmudiraj&layout=compact&theme=github_dark&hide_border=true"/>
 
 ---
 
@@ -117,14 +118,17 @@ Passionate about building scalable backend systems, modern APIs, and cloud-ready
 
 ---
 
+
+<p align="center">
+Thanks for visiting! Feel free to explore my repositories and connect with me.
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dvarunmudiraj/dvarunmudiraj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
 
-<p align="center">
-Thanks for visiting! Feel free to explore my repositories and connect with me.
-</p>
