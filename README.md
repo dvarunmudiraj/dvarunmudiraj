@@ -44,11 +44,10 @@ Passionate about building scalable backend systems, modern APIs, and cloud-ready
 
 ## 📊 GitHub Statistics
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=dvarunmudiraj&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarunmudiraj&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dvarunmudiraj&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarunmudiraj&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
