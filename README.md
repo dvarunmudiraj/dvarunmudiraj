@@ -39,3 +39,21 @@ Building scalable backend applications with Java, Spring Boot, Distributed Syste
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,redis,docker,git,github,linux,vscode,idea,html,css,js&perline=8"/>
 </p>
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dvarunmudiraj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarunmudiraj&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=dvarunmudiraj&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dvarunmudiraj&theme=github-dark&hide_border=true"/>
+</p>
