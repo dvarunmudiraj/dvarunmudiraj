@@ -36,4 +36,6 @@ Building scalable backend applications with Java, Spring Boot, Distributed Syste
 
 # 🛠 Tech Stack
 
-*Coming in the next step...*
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,redis,docker,git,github,linux,vscode,idea,html,css,js&perline=8"/>
+</p>
