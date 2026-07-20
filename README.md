@@ -65,6 +65,8 @@ Passionate about building scalable backend systems, modern APIs, and cloud-ready
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvarunmudiraj&theme=github-dark&hide_border=true"/>
 </p>
 
+---
+
 ## 🏅 LeetCode Achievements
 
 <p align="center">
@@ -72,6 +74,8 @@ Passionate about building scalable backend systems, modern APIs, and cloud-ready
   <img src="./assets/screenshots/leetcode-100-days.png" width="140"/>
   <img src="./assets/screenshots/leetcode-100-days1.png" width="140"/>
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -94,6 +98,8 @@ Passionate about building scalable backend systems, modern APIs, and cloud-ready
 </a>
 
 </p>
+
+---
 
 ## 📜 Certifications
 
