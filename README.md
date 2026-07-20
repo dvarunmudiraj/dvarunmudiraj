@@ -68,9 +68,9 @@ Passionate about building scalable backend systems, modern APIs, and cloud-ready
 ## 🏅 LeetCode Achievements
 
 <p align="center">
-  <img src="./assets/badges/leetcode-200-days.png" width="140"/>
-  <img src="./assets/badges/leetcode-100-days.png" width="140"/>
-  <img src="./assets/badges/leetcode-100-days1.png" width="140"/>
+  <img src="./assets/screenshots/leetcode-200-days.png" width="140"/>
+  <img src="./assets/screenshots/leetcode-100-days.png" width="140"/>
+  <img src="./assets/screenshots/leetcode-100-days1.png" width="140"/>
 </p>
 
 ## 🚀 Featured Projects
